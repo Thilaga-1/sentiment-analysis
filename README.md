@@ -11,7 +11,7 @@ It includes data preprocessing, model evaluation, confusion matrices, and word c
 
 ## 📁 Files
 
-- `final_sentiment_analysis_fixed.py` – Main script with full analysis
+- `Zomato_sentiment_analysis.py` – Main script with full analysis
 - `zomato_reviews.csv` – Dataset used for sentiment analysis 
 - `requirements.txt` – Python libraries used
 - `README.md` – You're reading it
@@ -49,7 +49,7 @@ Make sure `zomato_reviews.csv` is in the same directory.
 Then run:
 
 ```bash
-python final_sentiment_analysis_fixed.py
+python Zomato_sentiment_analysis.py
 ```
 
 ---
