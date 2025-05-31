@@ -12,7 +12,7 @@ It includes data preprocessing, model evaluation, confusion matrices, and word c
 ## 📁 Files
 
 - `final_sentiment_analysis_fixed.py` – Main script with full analysis
-- `zomato_reviews.csv` – Dataset used for sentiment analysis *(not included for size/privacy reasons)*
+- `zomato_reviews.csv` – Dataset used for sentiment analysis 
 - `requirements.txt` – Python libraries used
 - `README.md` – You're reading it
 
