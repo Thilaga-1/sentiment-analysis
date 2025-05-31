@@ -1,0 +1,16 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Virtual environment
+env/
+venv/
+
+# Data files
+*.csv
+*.tsv
+*.xlsx
+
+# Mac system files
+.DS_Store
