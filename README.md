@@ -16,10 +16,10 @@ This project analyzes customer sentiment from Zomato reviews using a combination
 ├── Zomato_Report.pdf                  # Final report of the project
 ├── requirements.txt                   # Python dependencies
 ├── /screenshots                       # Visual output files
-│   ├── sub_vs_pol.png                 # Polarity vs Subjectivity plot
+│   ├── pol_vs_sub.png                 # Polarity vs Subjectivity plot
 │   ├── confusion_matrix.png           # BERT vs TextBlob confusion matrix
-│   ├── wordcloud.png                  # Positive word cloud
-│   ├── download.png                   # Negative word cloud
+│   ├── pos_wordcloud.png                  # Positive word cloud
+│   ├── neg_wordcloud.png                   # Negative word cloud
 ```
 
 ---
