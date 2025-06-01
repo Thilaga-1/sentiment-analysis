@@ -24,7 +24,7 @@ This project analyzes customer sentiment from Zomato reviews using a combination
 
 ---
 
-## 🧠 Models Used
+##  Models Used
 
 1. **TextBlob (Lexicon-Based)**
    - Outputs: Polarity (-1 to 1), Subjectivity (0 to 1)
@@ -40,7 +40,7 @@ This project analyzes customer sentiment from Zomato reviews using a combination
 
 ---
 
-## 🧹 Preprocessing Pipeline
+##  Preprocessing Pipeline
 
 - URL, HTML tag, and digit removal
 - Lowercasing
@@ -53,16 +53,20 @@ This project analyzes customer sentiment from Zomato reviews using a combination
 ## 📊 Visualizations
 
 ### 1. Polarity vs Subjectivity (TextBlob)
-![Polarity vs Subjectivity](screenshots/sub_vs_pol.png)
+![pol vs sub](https://github.com/user-attachments/assets/2a88ba66-7d5f-4375-b766-c3021dd974ba)
+
 
 ### 2. Confusion Matrix: BERT vs TextBlob
-![Confusion Matrix](screenshots/confusion_matrix.png)
+![confusion matrix](https://github.com/user-attachments/assets/9cfa1dd2-6dc6-4b5a-8cf9-4c6f6211fcdc)
+
 
 ### 3. Word Cloud: Positive Reviews
-![Positive Word Cloud](screenshots/wordcloud.png)
+![download](https://github.com/user-attachments/assets/65681dcd-ffde-472e-ae50-3a75e2ccbb98)
+
 
 ### 4. Word Cloud: Negative Reviews
-![Negative Word Cloud](screenshots/download.png)
+![wordcloud](https://github.com/user-attachments/assets/4fffe532-bd9d-4157-9bac-92d08e84cbfb)
+
 
 ---
 
@@ -112,6 +116,4 @@ jupyter notebook Zomato_Sentiment_Analysis.ipynb
 
 ---
 
-## 🤝 Contributions
 
-Open to suggestions, improvements, or PRs!
